@@ -1,5 +1,5 @@
 # A/B Testing Analysis
-![Picture](chinese.jpg)
+![Picture](ab_testing.png)
 This repository contains an A/B testing analysis performed in the notebook [`AB_testing.ipynb`](./AB_testing.ipynb). The main goal is to evaluate whether changes between control and test groups lead to statistically significant improvements in conversion metrics.
 
 ## Project Overview
